@@ -9,6 +9,7 @@ import (
 	"cpnx.eu/aoc24/src/day4"
 	"cpnx.eu/aoc24/src/day5"
 	"cpnx.eu/aoc24/src/day6"
+	"cpnx.eu/aoc24/src/day7"
 )
 
 func main() {
@@ -24,4 +25,6 @@ func main() {
 	day5.Run()
 	fmt.Println("Day 6:")
 	day6.Run()
+	fmt.Println("Day 7:")
+	day7.Run()
 }
